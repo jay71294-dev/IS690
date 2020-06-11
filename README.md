@@ -3,3 +3,6 @@
 
 # Data Dictionary
 ![data dictionary](https://user-images.githubusercontent.com/55039024/84330449-6d260700-ab55-11ea-9886-69d79e441f0f.png)
+
+# ER Diagram
+![ERD ](https://user-images.githubusercontent.com/55039024/84330714-2684dc80-ab56-11ea-81dc-3249a4492c43.png)
